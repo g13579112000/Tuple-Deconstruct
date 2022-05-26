@@ -1,0 +1,15 @@
+D:\Test\Deconstruct\Deconstruct\Deconstruct\bin\Debug\net6.0\Deconstruct.exe
+D:\Test\Deconstruct\Deconstruct\Deconstruct\bin\Debug\net6.0\Deconstruct.deps.json
+D:\Test\Deconstruct\Deconstruct\Deconstruct\bin\Debug\net6.0\Deconstruct.runtimeconfig.json
+D:\Test\Deconstruct\Deconstruct\Deconstruct\bin\Debug\net6.0\Deconstruct.dll
+D:\Test\Deconstruct\Deconstruct\Deconstruct\bin\Debug\net6.0\Deconstruct.pdb
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\Deconstruct.csproj.AssemblyReference.cache
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\Deconstruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\Deconstruct.AssemblyInfoInputs.cache
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\Deconstruct.AssemblyInfo.cs
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\Deconstruct.csproj.CoreCompileInputs.cache
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\Deconstruct.dll
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\refint\Deconstruct.dll
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\Deconstruct.pdb
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\Deconstruct.genruntimeconfig.cache
+D:\Test\Deconstruct\Deconstruct\Deconstruct\obj\Debug\net6.0\ref\Deconstruct.dll
