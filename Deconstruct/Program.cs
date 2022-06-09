@@ -42,7 +42,23 @@ static (string, string, string, int) JohnCena(string lang)
     return ("unknown", "1977-04-23", "unknown", 45);
 }
 
+// 06/09/2022 新增範例，將function當物件使用
 var (_, birthday_3, _, age_3) = JohnCena("to");
+
+static (string name, string birthday, string country, int year) JohnCena0609(string lang)
+{
+    switch (lang.ToLower())
+    {
+        case "zh":
+            return ("約翰·希南", "1977年4月23日", "英國人", 45);
+        case "en":
+            return ("John Cena", "4/23/1977", "British", 45);
+    }
+    return ("unknown", "1977-04-23", "unknown", 45);
+}
+
+var x = JohnCena0609("zh");
+Console.WriteLine($"名字: {x.name} ，生日: {x.birthday}， 國籍: {x.country}， 年齡: {x.year}");
 
 // 解構式範例
 
@@ -78,3 +94,4 @@ public class Person
         country = Country;
     }
 }
+
